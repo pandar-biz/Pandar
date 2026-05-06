@@ -1,2 +1,2 @@
 # Pandar
-The meaning of pandar.
+To find out the meaning of pandar, visit https://pandar.biz.
